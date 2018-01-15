@@ -17,7 +17,7 @@
   },
 
   "exchanges": {
-    "bittrex": {
+    "binance": {
       "required": {
         "enabled": true
       },
